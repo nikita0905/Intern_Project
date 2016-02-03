@@ -1,0 +1,91 @@
+
+
+html,body{
+    height:100%;
+    margin: 0px;
+    padding: 0px;
+    
+}
+#head{
+    height:70px;
+    
+}
+#wrap{
+    height:100%;
+    min-height: 100%;
+    height:auto !important;
+    padding: 0px 0px 45px 0px;
+    margin: 0px 0px -45px 0px;
+}
+#f{
+    height:45px;
+}
+.bgblue{
+    background-color: #2b669a;
+    
+}
+.bgred{
+  background-color:#d9534f;  
+}
+.footerinner{
+    height:inherit ;
+}
+.marT20{
+    margin-top: 80px;
+}
+
+.panel-heading h3{
+    margin:0px;
+}
+
+.height1{
+    height: 150px;
+}
+.alert{
+    padding:7px;
+}
+.navbar {
+    border-radius: 0px;
+}
+.row h3{
+    margin-top: 5px;
+}
+.tdaction{
+    width: 70px;
+    text-align: center;
+}
+@media (min-width: 768px) {
+    .searchFrm{
+        float:right; width: 10%;
+    }
+    .logoutInner{
+        width:100%;
+    }
+}
+
+@media (min-width: 992px) {
+    .searchFrm{
+        float:right; width: 38%;
+    }
+     .logoutInner{
+        width:14%;
+    }
+}
+
+.userdetailstext{
+//    height: 200px;
+}
+
+
+#f .navbar-nav > li > a{
+    padding-top:0px;
+   padding-bottom: 0px;
+   margin-top:10px;
+}
+.black{
+    color: white;
+    
+}
+.mar{
+    margin-bottom: 10px;
+}
